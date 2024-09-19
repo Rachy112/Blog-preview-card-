@@ -31,7 +31,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://rachaelblogcard.netlify.app](https://your-live-site-url.com)
 
 ## My process
 
@@ -40,7 +40,6 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
 - Mobile-first workflow
 - style guide
 
@@ -64,12 +63,12 @@ Below are the code samples that are of great reinforcement to my knowledge.
 It will be a great pleasure to focus more on test-shadow so i can learn more on how use it on my project without having issue. I will also like to focus on CSS to learn more about styling of project. 
 
 ### Useful resources
-Markup:
+
 - [W3schools](https://www.w3schools.com) - This helped me to learn more about CSS and has been of great help for me as a beginner. I really loved their pattern and how explainatory  .
 - [Scrimba](https://v2.scrimba.com) - This is an amazing short videos which helped me understand both CSS and HTML better and the explanation was so nice and understandable.  I'd recommend it to anyone still learning this concept.
 
 ## Author
-Markup:
+
   - Website - [Gabriel Rachael Omowumi](https://www.instagram.rachy_word1.com)
   - Frontend Mentor - [@rachy112](https://www.frontendmentor.io/profile/rachy112)
   - Twitter - [@rachyworld](https://www.twitter.com/rachy112)
